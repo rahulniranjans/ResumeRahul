@@ -173,8 +173,8 @@ h1,h2,h3,h4,h5
 	}
 #home h1
     {
-        border: 2px solid #00872d;
-        color: #00872d;
+        border: 2px solid #CEB888;
+        color: #CEB888;
         display: inline-block;
         letter-spacing: 6px;
         padding: 25px 35px;
@@ -199,7 +199,7 @@ h1,h2,h3,h4,h5
     }
 #home .btn:hover
     {
-        background: #00872d;
+        background: #CEB888;
         border-color: transparent;
     }
 /* end home */
@@ -223,7 +223,7 @@ h1,h2,h3,h4,h5
     {
         border: 2px solid #ffffff;
         border-radius: 50%;
-        color: #00872d;
+        color: #CEB888;
         font-size: 24px;
         margin-right: 24px;
         width: 60px;
@@ -261,7 +261,7 @@ h1,h2,h3,h4,h5
     {
         border: 2px solid #ffffff;
         border-radius: 50%;
-        color: #00872d;
+        color: #CEB888;
         width: 50px;
         height: 50px;
         line-height: 45px;
@@ -309,6 +309,6 @@ footer hr
     }
 .social-icon li a:hover
     {
-        color: #00872d;
+        color: #CEB888;
     }
 /* end social icon */
